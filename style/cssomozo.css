@@ -1,0 +1,19 @@
+.lor section{
+    display: flex;
+    column-gap: 5%;
+}
+.one{
+    background-color: yellow;
+    color: black;
+    padding: 3%;
+}
+.two{
+    background-color: red;
+    color: white;
+    padding: 3%;
+}
+.three{
+    background-color: blue;
+    color: white;
+    padding: 3%;
+}
